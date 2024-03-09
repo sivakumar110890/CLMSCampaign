@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="CLMS Campaign testing suite">
+<test name = "CLMS Login">
+<classes>
+<class name="testSuite.LoginTestCase"/>
+<class name="testSuite.TC_01_CampaignSearch"/>
+<class name="testSuite.TC_02_CampaignAddTestCase"/>"
+</classes>
+</test>
+</suite>
